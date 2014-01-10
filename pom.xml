@@ -237,7 +237,7 @@
                             <!--<configLocation>custom-checkstyle.xml</configLocation>-->
                         <!--</configuration>-->
                     <!--</plugin>-->
-
+		    <!-- test change of .xml file -->
                     <!-- PMD -->
                     <plugin>
                         <groupId>org.apache.maven.plugins</groupId>
